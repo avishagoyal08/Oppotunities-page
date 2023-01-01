@@ -1,0 +1,117 @@
+body{
+  background-image: url('https://tse3.mm.bing.net/th?id=OIP.CXmCHLV_Vi-pCAnAWE2jCQHaEK&pid=Api&P=0');
+  background-size: auto;
+  filter: brightness(120%);
+  margin:0;
+  padding:0;
+}
+/* text and parent - made for adding links to texts - hackathon, communities, open source*/
+.text{
+  margin:0px;
+  position:relative;
+  right:40px;
+  bottom:20px;
+  padding:50px;
+}
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+
+  /* text and parent - made for adding links to texts - internships and scholarships*/
+  .text1{
+    margin:0px;
+    position:relative;
+    left:20px;
+    bottom:20px;
+    padding:50px;
+  }
+  .parent1 {
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index:99;
+  }
+  .img1 {
+    position: relative;
+    top: 0;
+    left: 0;
+    height:400px;
+    width:800px;
+    
+  }
+  .img4 {
+    position: relative;
+    top: 0;
+    left: 0;
+    height:400px;
+    width:800px;
+    margin:0px 0px 120px 0px;
+    
+  }
+  .img2 {
+    position: absolute;
+    border-radius: 50%;
+    top: 20px;
+    left: 30px;
+    height:250px;
+    width:250px;
+    margin:0px 0px 0px 480px;
+    border: 1px solid #000000;
+  }
+  .img3{
+    position: absolute;
+    border-radius: 50%;
+    /*top: 20px;
+    left: 30px;*/
+    height:250px;
+    width:250px;
+    margin:130px 0px 0px 680px;
+    border: 1px solid #000000;
+
+  }
+
+  .img5 {
+    position: absolute;
+    border-radius: 50%;
+    top: 20px;
+    left: 30px;
+    height:250px;
+    width:250px;
+    margin:520px 0px 0px 500px;
+    border: 1px solid #000000;
+  }
+  .TL{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size:30px;
+ }
+ .TL2{
+    position: absolute;
+    top: 500px;
+    left: 16px;
+    font-size:30px;
+ }
+ .TR {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    margin:80px 0px 0px 0px ;
+    font-size:30px;
+ }
+ a { 
+    text-decoration: none;
+    color:black;
+}
+
+a:hover{
+  color:red;
+}
+
+
+
+
+
+

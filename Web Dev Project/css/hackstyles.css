@@ -1,0 +1,32 @@
+body {
+    background-image: url('https://tse3.mm.bing.net/th?id=OIP.CXmCHLV_Vi-pCAnAWE2jCQHaEK&pid=Api&P=0');
+    background-size: auto;
+  }
+
+.title{
+    font-size:60px;
+    text-align:center;
+    color:#439A97;
+}
+h2{
+    color:white;
+    margin: 0px 0px 20px 200px;
+}
+h3{
+    font-size: 25px;
+    color:black;
+}
+.in{
+    background-color:white;
+    padding:10px;
+    border-radius:30px;
+    border-color: grey;
+    border-style: solid;
+    border-width: 10px;
+    margin: 0px 0px 40px 0px;
+    Width: 65%;
+    margin-left: 15%;
+}
+a:hover{
+    color:red;
+}
